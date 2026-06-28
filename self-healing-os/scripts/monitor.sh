@@ -3,7 +3,7 @@
 # monitor.sh — Unified MAPE-loop monitor (all three failure types)
 # =============================================================================
 # Part of: Self-Healing OS — Phase 1 Baseline
-# Author:  Nimit Mishra (1SI24CS116), SIT Tumkur
+# Author:  Nimit Mishra (1SI24CS116) and Nitin Sharma (1SI24CS118),SIT Tumkur
 # License: MIT
 #
 # Description:
@@ -15,11 +15,7 @@
 #   No human input is required after the monitor is started. The only
 #   manual action during research was triggering the simulated failures.
 #
-# MAPE loop mapping:
-#   Monitor  → detect_*.sh scripts (poll every INTERVAL seconds)
-#   Analyze  → exit code check (0 = healthy, non-zero = failure)
-#   Plan     → implicit: each failure type has a fixed patch script
-#   Execute  → patch_*.sh scripts (invoked automatically on failure)
+# 
 #
 # Usage:
 #   # Run in background, log all output:
