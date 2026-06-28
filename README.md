@@ -132,3 +132,7 @@ This project is part of undergraduate research at [Siddaganga Institute of Techn
 **Date:** June 2026
 
 ---
+
+## License
+
+MIT — see [LICENSE](LICENSE)
