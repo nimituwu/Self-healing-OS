@@ -4,7 +4,7 @@
 # =============================================================================
 # Part of: Self-Healing OS — Phase 1 Baseline
 # Author:  Nimit Mishra (1SI24CS116) and Nitin Sharma (1SI24CS118), SIT Tumkur
-# License: MIT
+# License: MIT 
 #
 # Description:
 #   Checks whether the sshd service is running using OpenRC's rc-service.
