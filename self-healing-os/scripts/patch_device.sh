@@ -3,7 +3,7 @@
 # patch_device.sh — Recover a removed or unmounted block device
 # =============================================================================
 # Part of: Self-Healing OS — Phase 1 Baseline
-# Author:  Nimit Mishra (1SI24CS116), SIT Tumkur
+# Author:  Nimit Mishra (1SI24CS116), Nitin Sharma (1SI24CS118),SIT Tumkur
 # License: MIT
 #
 # Description:
