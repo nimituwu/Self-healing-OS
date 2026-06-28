@@ -3,7 +3,7 @@
 # patch_service.sh — Restart a crashed or stopped SSH daemon (sshd)
 # =============================================================================
 # Part of: Self-Healing OS — Phase 1 Baseline
-# Author:  Nimit Mishra (1SI24CS116), SIT Tumkur
+# Author:  Nitin Sharma(1SI24CS118),Nimit Mishra (1SI24CS116), SIT Tumkur
 # License: MIT
 #
 # Description:
