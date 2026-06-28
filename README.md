@@ -127,7 +127,7 @@ This repository contains Phase 1 (baseline, no AI).
 
 This project is part of undergraduate research at [Siddaganga Institute of Technology](https://www.sit.ac.in/), Tumkur, Karnataka, India. Establishing a verified baseline before introducing AI-driven recovery in subsequent phases.
 
-**Author:** Nimit Mishra (1SI24CS116), Dept. of Computer Science and Engineering, SIT Tumkur  
+**Author:** Nimit Mishra (1SI24CS116),Nitin Sharma (1SI24CS118) Dept. of Computer Science and Engineering, SIT Tumkur  
 **Supervisor:** Faculty, Dept. of CSE, SIT Tumkur  
 **Date:** June 2026
 
