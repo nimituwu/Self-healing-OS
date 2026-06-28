@@ -1,6 +1,6 @@
 #!/bin/sh
 # =============================================================================
-# detect_disk.sh — Detect /tmp (tmpfs) disk exhaustion
+# detect_disk.sh — Detect /tmp (tmpfs) disk exhaustion 
 # =============================================================================
 # Part of: Self-Healing OS — Phase 1 Baseline
 # Author:  Nimit Mishra (1SI24CS116) and  Nitin Sharma (1SI24CS118),Tumkur
