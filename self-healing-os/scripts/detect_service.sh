@@ -3,7 +3,7 @@
 # detect_service.sh — Detect SSH daemon (sshd) crash or stop
 # =============================================================================
 # Part of: Self-Healing OS — Phase 1 Baseline
-# Author:  Nimit Mishra (1SI24CS116), SIT Tumkur
+# Author:  Nimit Mishra (1SI24CS116) and Nitin Sharma (1SI24CS118), SIT Tumkur
 # License: MIT
 #
 # Description:
